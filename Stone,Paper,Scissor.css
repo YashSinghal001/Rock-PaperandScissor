@@ -82,6 +82,9 @@ h1
     border:  5px solid #081b31;
     /* background-color: #081b31; */
 }
+#result{
+    font-size: 22px;
+}
 
 @media only screen and (max-width:751px) {
     
@@ -89,7 +92,7 @@ h1
         padding: 0px;
         margin: 30px auto;
         width: 600px;
-        height: 525px;
+        height: 550px;
         backdrop-filter: blur(10px);
         background: rgb(39 52 59 / 45%);
         border-radius: 8px;
@@ -99,6 +102,7 @@ h1
     font-size: 35px;
 }
 
+
 }
 
 @media only screen and (max-width:616px) {
@@ -107,7 +111,7 @@ h1
         padding: 0px;
         margin: 30px auto;
         width: 525px;
-        height: 505px;
+        height: 525px;
         backdrop-filter: blur(10px);
         background: rgb(39 52 59 / 45%);
         border-radius: 8px;
@@ -132,7 +136,7 @@ h1
         padding: 0px;
         margin: 30px auto;
         width: 455px;
-        height: 475px;
+        height: 505px;
         backdrop-filter: blur(10px);
         background: rgb(39 52 59 / 45%);
         border-radius: 8px;
@@ -171,7 +175,7 @@ h1
         padding: 0px;
         margin: 30px auto;
         width: 400px;
-        height: 475px;
+        height: 500px;
         backdrop-filter: blur(10px);
         background: rgb(39 52 59 / 45%);
         border-radius: 8px;
@@ -185,7 +189,7 @@ h1
         padding: 0px;
         margin: 0px auto;
         width: 355px;
-        height: 570px;
+        height: 600px;
         backdrop-filter: blur(10px);
         background: rgb(39 52 59 / 45%);
         border-radius: 8px;
@@ -195,6 +199,9 @@ h1
 {
     font-size: 25px;
 }
+#result{
+    font-size: 21px;
+}
 
 }
 @media only screen and (max-width:366px) {
@@ -203,7 +210,7 @@ h1
         padding: 0px;
         margin: 0px auto;
         width: 340px;
-        height: 590px;
+        height: 620px;
         backdrop-filter: blur(10px);
         background: rgb(39 52 59 / 45%);
         border-radius: 8px;
